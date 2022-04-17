@@ -1,0 +1,24 @@
+/* const IssueTitle = styled.div`
+  font-size: 1rem;
+`;
+
+const IssueDetail = styled.div`
+  font-size: 0.8rem;
+`;
+
+const Label = styled.span`
+  background-color: ${(props) => "#" + props.color};
+  border-radius: 10px;
+  padding: 0 5px;
+  margin: 0 5px;
+  font-size: 0.8rem;
+  vertical-align: top;
+  padding-bottom: 2px;
+  font-weight: 500;
+`; */
+.second_div{
+    width:60%;
+    display:flex;
+    flex-wrap: wrap;
+    
+}
